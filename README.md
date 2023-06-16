@@ -1,5 +1,5 @@
 ## Introduction:
-This is a repository for the development of next-generation wireless network (mmWave, 5G/6G) in network simulator ns-3.
+This is a repository for the development of digital twin in next-generation wireless network (mmWave, 5G/6G) in network simulator ns-3.
 
 ## Features:
 This initial version supports the following new features:
