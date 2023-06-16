@@ -35,7 +35,7 @@ Description: This script is used to map the network performance of random scenar
 
 Description: This function can be found in our recent research paper "Y. Liu and D. Blough, “Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (Best Paper Award)".
 
-<img id="img1" src="figures/attribute.PNG" width="450" height="280" align="middle">
+<img id="img1" src="figures/attribute.PNG" width="450" height="320" align="middle">
 
 (a) Mapped network environment. (b)-(c) radio maps from the view of AP1 and AP2, respectively.
 
