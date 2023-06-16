@@ -37,5 +37,5 @@ Description: This function can be found in our recent research paper "Y. Liu and
 
 <img id="img1" src="figures/attribute.PNG" width="450" height="320" align="middle">
 
-(a) Mapped network environment. (b)-(c) radio maps from the view of AP1 and AP2, respectively.
+(a) Mapped network environment. (b)-(c) radio maps from the view of AP1 and AP2 (at the height plane of 0.8m), respectively.
 
