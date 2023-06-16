@@ -1,14 +1,15 @@
 ## Introduction:
-This is a repository for the development of the 60 GHz mmWave wireless LAN (IEEE 802.11ad/ay) in network simulator ns-3. This repository is based on [Wigig Tools](https://github.com/wigig-tools/wigig-module).
+This is a repository for the development of next-generation wireless network (mmWave, 5G/6G) in network simulator ns-3.
 
 ## Features:
-In addition to IEEE 802.11ad/ay features as in original Wigig module, this version supports the following new features:
+This initial version supports the following new features:
 
+1. Accurate environment mapping and mirroring model.
 1. Cuboid-based obstacle model (including both furniture-type obstacles and human obstacles).
-1. Accurate Line-of-Sight determination function.
-1. Different mmWave-specific channel models.
-1. Add TGad evaluation examples.
-1. Support for multiple access point / reflector configurations (under development and continue to update).
+1. Accurate network attributes (e.g., signal strength} determination function.
+1. Different wireless channel models.
+1. Indoor WLAN digital twin examples.
+1. Support for emulation with physical LAN and network digital twin evolution (under development and continue to update).
 
 
 
@@ -25,11 +26,11 @@ Or, to build the project in optimized mode for fast execution type the following
     
 
 ## Prerequisites:
-Before start using this mmWave WLAN module, please keep the following in mind:
+Before start using this module, please keep the following in mind:
 
-1. Understand WLAN IEEE 802.11 MAC/PHY operations.
+1. Understand WLAN IEEE 802.11 MAC/PHY, LTE, and 5G NR operations.
 1. Get familiar with ns-3 and how to run simulations in ns-3.
-1. Understand the existing Wifi Model in ns-3 which implements WLAN IEEE 802.11a/b/g/n/ac/ax.
+1. Understand the existing wireless/Wifi Model in ns-3.
 
 ## Contact info:
 yuchen.liu.sn at gmail dot com
