@@ -31,3 +31,9 @@ Description: This script is used to map the network performance of random scenar
 
 <img id="img1" src="figures/eva_rand_scenario.png" width="450" height="280" align="middle">
 
+### 6. Mapping the signal strength at any receiver locations (radio maps) in digital twin
+
+Description: This function can be found in our recent research paper "Y. Liu and D. Blough, “Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (Best Paper Award)".
+
+<img id="img1" src="figures/eva_rand_scenario.png" width="450" height="280" align="middle">
+
